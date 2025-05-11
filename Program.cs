@@ -11,7 +11,7 @@ class Program
         // Square properties
         float squareX = 350f; // Starting X position
         float squareY = 250f; // Starting Y position
-        float squareSize = 100f; // Square size
+        float squareSize = 30f; // Square size
         float moveSpeed = 5f; // Pixels per frame
 
         // Main game loop
